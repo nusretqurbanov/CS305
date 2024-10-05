@@ -1,0 +1,53 @@
+h1{
+    font-size: 25px;
+    color: blueviolet;
+    height: 30px;
+    
+}
+
+p{
+    font-size: 18px;
+    color: #c40e0edb;
+    height: 50px;
+}
+span{
+    color: purple;
+}
+input{
+    width: 400px;
+    height: 50px;
+
+}
+
+
+form{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.gender{
+    font-size: 30px;
+    color: brown;
+}
+.button{
+    border-radius: 12px;
+    height: 150px;
+    width: 80px;
+    cursor: pointer;
+    padding: 10px;
+}
+h3{
+    font-size: 20px;
+    color: rgb(143, 20, 162);
+}
+form label{
+    color: #ff0000;
+}
+
+
+
+

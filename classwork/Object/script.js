@@ -90,10 +90,10 @@
 // console.log(nusret);
 // console.log(nusret.length);
 // console.log(nusret.sort());
-// nusret.push='specialist'
+// nusret.push('specialist')
 // console.log(nusret);
 // nusret[nusret.length]= 'CODE ACADEMY'
-// nusret[4]='ASOIU'
+// nusret[5]='ASOIU'
 // console.log(nusret);
  
 // const Nicat = {position:"My brother",age:12,ability:'makeMeAngry'}

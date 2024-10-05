@@ -92,14 +92,10 @@
 //console.log(r<=p);
 
 // 7.Use logical operators (&&, ||, !).
-
 // let q=4
 // let s=7
 // let j=true
 // console.log(q==4 || s==6); //or operator , one or both are true give us true
 // console.log(q==33 && s==7); //and operator , if both are true give us true
 // console.log(!j); //'Not' operator , this example give us false because 'not' operator invert boolaen value of given expression;
-
-
-
 
