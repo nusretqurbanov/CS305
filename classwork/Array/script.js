@@ -92,8 +92,8 @@
 // console.log(result3);
 
 // const numbers = [9,5,3,11,12,33,22,9,10,0,8]
-//numbers.reverse()
-//console.log('reverse',numbers);
+// numbers.reverse()
+// console.log('reverse',numbers);
 // numbers.sort((a,b) => a-b)
 // console.log('asc',numbers);
 
