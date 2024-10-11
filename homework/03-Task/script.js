@@ -189,6 +189,7 @@
    
 // }
 
+
 // // if value is number add it 10, if value is string add to it value + is string,if is value falsy value add to it value+ is falsly value(with return word)
 // // Example: [10,'true',false]
 // // Result: [20, "true is string", "false is falsy value"]
